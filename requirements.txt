@@ -1,0 +1,5 @@
+numpy
+matplotlib
+jupyter
+pandas==2.0.3
+torch==2.3.0
